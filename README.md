@@ -1,5 +1,6 @@
 # jsproblems
-Eloquent JavaScript 3 Problems and Solutions
+Eloquent JavaScript 3 Problems and Solutions.
+
 This repository is a documentation of my solutions to the problems presented in
 Eloquent JavaScript the Third Edition.
 
