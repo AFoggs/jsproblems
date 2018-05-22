@@ -1,4 +1,4 @@
-//Program to print chess board
+//Program to print chess board of any size
 
 let size = prompt("Please enter an even Number");
 let board = "";
